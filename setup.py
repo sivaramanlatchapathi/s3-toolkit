@@ -11,7 +11,7 @@ setup(
     description="A robust Python package for AWS S3 data integration",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/s3-toolkit",
+    url="https://github.com/sivaramanlatchapathi/s3-toolkit",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
