@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="s3-toolkit",
     version="0.1.0",
-    author="Your Name",
-    author_email="your.email@example.com",
+    author="Sivaraman Latchapathi   ",
+    author_email="sivaramanlatchapathi@gmail.com",
     description="A robust Python package for AWS S3 data integration",
     long_description=long_description,
     long_description_content_type="text/markdown",
